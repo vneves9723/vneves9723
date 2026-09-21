@@ -1,14 +1,14 @@
- Hi, I'm Vinicius
+# Hi, I'm Vinicius
 
 I'm a Data Science student at Mackenzie University, based in São Paulo, Brazil.
 
-I currently work at Parafuzo with operational data, indicators and process analysis. I'm especially interested in turning data into practical tools for decision-making, with a growing focus on sports and basketball analytics.
+I currently work at Parafuzo with operational data, performance indicators and process analysis. I'm interested in turning data into practical tools for decision-making, with a growing focus on sports analytics.
 
- Featured project
+## Featured projects
 
- Hidden Court
+### Hidden Court
 
-An end-to-end NBA scouting analytics project that uses historical player data to identify young players with breakout potential and project their next-season scoring.
+An end-to-end NBA scouting analytics project that uses historical player data and machine learning to identify young players with breakout potential and project their next-season scoring.
 
 The project includes:
 
@@ -21,24 +21,33 @@ The project includes:
 
 [View Hidden Court](https://github.com/vneves9723/hidden-court)
 
- Technologies
+### Ecommerce Health
+
+A data analysis project that investigates whether revenue growth was accompanied by real operational improvement.
+
+The project explores sales performance, customer behavior and delivery operations using SQL and business indicators.
+
+[View Ecommerce Health](https://github.com/vneves9723/ecommerce-health)
+
+## Technologies
 
 * Python
-* Pandas and NumPy
 * SQL
+* Pandas and NumPy
 * Scikit-learn
+* Power BI
 * Streamlit
 * Plotly
 * Git and GitHub
 
- Currently developing
+## Currently developing
 
 * Data analysis and machine learning
 * Sports analytics projects
 * Interactive dashboards
 
-
- Let's connect
+## Let's connect
 
 I'm open to feedback, collaboration and opportunities involving data analytics, data science and sports analytics.
 
+[LinkedIn](https://www.linkedin.com/in/vinicius-neves-sant) | [Email](mailto:vneves9723@gmail.com)
