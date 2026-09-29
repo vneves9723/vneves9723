@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius 👋
 
-🇬🇧 **English** 
+
 
 I'm a Data Science student at Mackenzie University, based in São Paulo, Brazil.
 
